@@ -1,0 +1,74 @@
+/* body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-image: url('https://miro.medium.com/v2/resize:fit:11852/1*eFa8Fg7n_JYX7fiHGS2lUg.jpeg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto 0 auto;
+  padding: 40px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 30px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 40px;
+  letter-spacing: 2px;
+}
+
+.file-input input[type="file"] {
+  display: none;
+}
+
+.file-input label {
+  padding: 15px 30px;
+  font-size: 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.file-input label:hover {
+  background-color: #43a047;
+}
+
+.result img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.3);
+  margin-top: 20px;
+}
+
+.predict-another {
+  margin-top: 20px;
+}
+
+.predict-another button {
+  padding: 15px 30px;
+  font-size: 20px;
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.predict-another button:hover {
+  background-color: #e53935;
+} */
